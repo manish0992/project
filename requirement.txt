@@ -7,4 +7,4 @@ Jinja2==2.7.2
 nltk==3.1
 SQLAlchemy==0.8.4
 SQLObject==1.5.2
-Werkzeug==0.9.4
+Werkzeug==0.15.3
