@@ -17,7 +17,7 @@ Flask-Script==0.6.6
 Flask-SQLAlchemy==1.0
 FormEncode==1.2.6
 httplib2==0.8
-ipython==1.2.1
+ipython==7.16.3
 itsdangerous==0.22
 Jinja2==2.7.2
 lockfile==0.8
