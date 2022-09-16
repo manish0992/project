@@ -22,7 +22,7 @@ itsdangerous==0.22
 Jinja2==2.7.2
 lockfile==0.8
 lxml==3.3.3
-Mako==0.9.1
+Mako==1.2.2
 MarkupSafe==0.18
 marshmallow==2.5.0
 marshmallow-jsonapi==0.4.2
